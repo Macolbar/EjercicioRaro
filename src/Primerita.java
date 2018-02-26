@@ -1,4 +1,5 @@
 
 public class Primerita {
-	int uno=1;
+	boolean naah=true;
+	int dos=1;
 }
